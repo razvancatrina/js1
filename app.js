@@ -58,7 +58,7 @@ const dinosRawData = [
     {
         "species": "Brachiosaurus",
         "weight": 70000,
-        "height": "372",
+        "height": 372,
         "diet": "herbivore",
         "where": "North America",
         "when": "Late Jurassic",
