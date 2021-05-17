@@ -107,7 +107,6 @@ let dinos = dinosRawData.map(dinosaur =>
         dinosaur.where, dinosaur.when, dinosaur.fact, './' + dinosaur.species.toLowerCase() + '.png')
 )
 
-console.log(dinos);
 
 // Create Human Object
 
@@ -145,7 +144,6 @@ let getHuman = (function () {
     }
 })();
 
-console.log(getHuman());
 
 // Create Dino Compare Method 1
 // NOTE: Weight in JSON file is in lbs, height in inches.
